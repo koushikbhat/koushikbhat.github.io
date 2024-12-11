@@ -2,24 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: Applied Research Engineer, AI/ML
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: >
+    <p>
+    <img src='assets/img/favicon.png' alt='Brain Centre Icon' style='vertical-align: middle; width: 30px; height: 30px;' />
+     <a href= 'https://public.humanbrain.in/public'> Sudha Gopalakrishnan Brain Centre </a> 
+    </p>
+    <p>IIT Madras 
+    <img src='assets/img/iitm_logo.png' alt='IITM LOGO Icon' style='vertical-align: middle; width: 30px; height: 30px;' /></p>
+    <p>Chennai , India - 600036</p>
 
-news: true # includes a list of news items
+news: true  # includes a list of news items
+latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently working as an **Applied Research Engineer** in **AI/ML** at **Company XYZ**, where I focus on cutting-edge research and development in artificial intelligence and machine learning applications. Previously, I completed my **Master of Science (by Research)** in [Electrical Engineering](https://www.ee.iitm.ac.in/) at the prestigious [Indian Institute of Technology Madras](https://www.iitm.ac.in/). During my time there, I was affiliated with the Sudha Gopalakrishnan Brain Centre ([SGBC-IITM](https://public.humanbrain.in/public/)) Lab, under the expert guidance of [Prof. Mohanasankar Sivaprakasam](https://www.ee.iitm.ac.in/mohan/). My research focused on **Biomedical Image Processing**, particularly in **Registration and Segmentation**, emphasizing applying these techniques to large-scale datasets.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before my postgraduate studies, I earned my Bachelor's degree in Engineering from [B.M.S. College of Engineering](https://www.bmsce.ac.in/), which provided a strong foundation for my academic and professional pursuits.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+---
+> During my time at IITM, I was honored to receive the prestigious SAMSUNG—IITM PRAVARTAK Fellowship, which supported my research endeavors.
+---
